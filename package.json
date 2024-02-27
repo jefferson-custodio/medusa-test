@@ -4,6 +4,7 @@
   "description": "A starter for Medusa projects.",
   "author": "Medusa (https://medusajs.com)",
   "license": "MIT",
+  "homepage": "https://medusa-test-wine.vercel.app/",
   "keywords": [
     "sqlite",
     "postgres",
